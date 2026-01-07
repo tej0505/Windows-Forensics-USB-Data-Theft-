@@ -68,10 +68,12 @@ The second Windows 10 virtual machine was configured as a **dedicated forensic w
 * The following forensic tools were installed:
 
   * **FTK Imager** – for forensic disk acquisition and hash verification
-  * <img width="1120" height="630" alt="image" src="https://github.com/user-attachments/assets/92e04fc4-ce08-4edc-942b-7a3d05019c71" />
+
+    <img width="1000" height="630" alt="image" src="https://github.com/user-attachments/assets/92e04fc4-ce08-4edc-942b-7a3d05019c71" />
 
   * **Autopsy** – for forensic analysis, artifact extraction, and timeline reconstruction
-  * <img width="1200" height="665" alt="image" src="https://github.com/user-attachments/assets/5b1c65e7-f877-407e-a15e-01da5aeff442" />
+  
+    <img width="1000" height="665" alt="image" src="https://github.com/user-attachments/assets/5b1c65e7-f877-407e-a15e-01da5aeff442" />
 
 
 **Purpose:**
