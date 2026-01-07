@@ -37,7 +37,8 @@ FTK Imager was opened on the **forensic analysis virtual machine** after confirm
 
 📸 Screenshot: FTK Imager application opened
 
-  <img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/fda53aed-742d-480b-a357-645ebf45455f" />
+<img width="1120" height="630" alt="image" src="https://github.com/user-attachments/assets/f7b74e45-763f-4867-a71e-1c46cce1cae9" />
+
 
 
 
