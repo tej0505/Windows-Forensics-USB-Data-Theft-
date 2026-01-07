@@ -102,8 +102,8 @@ This activity indicates further malicious intent beyond data theft and generates
 📸 *Screenshot:* Browser search and keylogger download page
 
 
-   
-   <img width="661" height="269" alt="Screenshot from 2025-12-29 12-50-29" src="https://github.com/user-attachments/assets/0a25ceb7-9a6d-4838-9ca5-96c925e8cb8d" />
+   <img width="986" height="712" alt="Screenshot from 2025-12-29 12-50-29" src="https://github.com/user-attachments/assets/aa91e813-bbd7-4931-b4e2-df45685898c7" />
+
 
 ---
 
