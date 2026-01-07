@@ -54,7 +54,7 @@ It generates file system artifacts that can be correlated with USB connection ev
 
 📸 *Screenshot:* Files copied to USB drive
 
-   <img width="936" height="654" alt="Screenshot from 2025-12-29 12-42-02" src="https://github.com/user-attachments/assets/d7b4da9d-61e8-49a0-8a96-5dd503337768" />
+   <img width="661" height="269" alt="Screenshot from 2025-12-29 12-42-02" src="https://github.com/user-attachments/assets/d7b4da9d-61e8-49a0-8a96-5dd503337768" />
 
 ---
 
@@ -69,7 +69,7 @@ It generates deleted file records and supports identification of anti-forensic b
 📸 *Screenshot:* Deletion of confidential files
 
 
-   <img width="936" height="654" alt="Screenshot from 2025-12-29 12-45-18" src="https://github.com/user-attachments/assets/918e7d32-4878-474b-8134-5c453e00f72f" />
+   <img width="661" height="269" alt="Screenshot from 2025-12-29 12-45-18" src="https://github.com/user-attachments/assets/918e7d32-4878-474b-8134-5c453e00f72f" />
 
 
 ---
@@ -84,7 +84,7 @@ This step strengthens evidence of intentional concealment by ensuring files are 
 📸 *Screenshot:* Recycle Bin emptied
 
 
-   <img width="792" height="576" alt="Screenshot from 2025-12-29 12-47-51" src="https://github.com/user-attachments/assets/769b372b-2dfc-48ab-a273-ce2aa882da0b" />
+   <img width="661" height="269" alt="Screenshot from 2025-12-29 12-47-51" src="https://github.com/user-attachments/assets/769b372b-2dfc-48ab-a273-ce2aa882da0b" />
 
 
 ---
@@ -100,7 +100,7 @@ This activity indicates further malicious intent beyond data theft and generates
 
 
    
-   <img width="986" height="712" alt="Screenshot from 2025-12-29 12-50-29" src="https://github.com/user-attachments/assets/0a25ceb7-9a6d-4838-9ca5-96c925e8cb8d" />
+   <img width="661" height="269" alt="Screenshot from 2025-12-29 12-50-29" src="https://github.com/user-attachments/assets/0a25ceb7-9a6d-4838-9ca5-96c925e8cb8d" />
 
 ---
 
