@@ -54,8 +54,7 @@ It generates file system artifacts that can be correlated with USB connection ev
 
 📸 *Screenshot:* Files copied to USB drive
 
-   
-     <img width="936" height="654" alt="Screenshot from 2025-12-29 12-42-02" src="https://github.com/user-attachments/assets/93c241a7-8038-4e09-a978-48702d77d6c2" />
+   <img width="936" height="654" alt="Screenshot from 2025-12-29 12-42-02" src="https://github.com/user-attachments/assets/d7b4da9d-61e8-49a0-8a96-5dd503337768" />
 
 ---
 
@@ -70,7 +69,7 @@ It generates deleted file records and supports identification of anti-forensic b
 📸 *Screenshot:* Deletion of confidential files
 
 
-    <img width="936" height="654" alt="Screenshot from 2025-12-29 12-45-18" src="https://github.com/user-attachments/assets/918e7d32-4878-474b-8134-5c453e00f72f" />
+   <img width="936" height="654" alt="Screenshot from 2025-12-29 12-45-18" src="https://github.com/user-attachments/assets/918e7d32-4878-474b-8134-5c453e00f72f" />
 
 
 ---
