@@ -11,8 +11,6 @@ The confidential files were created as part of the lab environment setup and exi
 - User account creation
 - Initial system readiness
 - Presence of confidential files before the incident
-- Confidential folder created with files
-<img width="787" height="350" alt="Screenshot from 2025-12-29 12-39-44" src="https://github.com/user-attachments/assets/6315abce-a0b8-4491-955f-a2f8e03400b7" />
 
 
 
