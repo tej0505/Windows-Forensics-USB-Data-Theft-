@@ -54,7 +54,8 @@ It generates file system artifacts that can be correlated with USB connection ev
 
 📸 *Screenshot:* Files copied to USB drive
 
-   <img width="661" height="269" alt="Screenshot from 2025-12-29 12-42-02" src="https://github.com/user-attachments/assets/d7b4da9d-61e8-49a0-8a96-5dd503337768" />
+   <img width="936" height="654" alt="Screenshot from 2025-12-29 12-42-02" src="https://github.com/user-attachments/assets/6a8de34c-3a2c-44b9-b938-181f3403f2f8" />
+
 
 ---
 
@@ -69,7 +70,8 @@ It generates deleted file records and supports identification of anti-forensic b
 📸 *Screenshot:* Deletion of confidential files
 
 
-   <img width="661" height="269" alt="Screenshot from 2025-12-29 12-45-18" src="https://github.com/user-attachments/assets/918e7d32-4878-474b-8134-5c453e00f72f" />
+   <img width="936" height="654" alt="Screenshot from 2025-12-29 12-45-18" src="https://github.com/user-attachments/assets/160d53fc-065d-4532-8613-dc0523786421" />
+
 
 
 ---
@@ -83,8 +85,9 @@ This step strengthens evidence of intentional concealment by ensuring files are 
 
 📸 *Screenshot:* Recycle Bin emptied
 
+   
+   <img width="792" height="576" alt="Screenshot from 2025-12-29 12-47-51" src="https://github.com/user-attachments/assets/f635af41-c16f-41fd-a1e9-f3655e4c6fd3" />
 
-   <img width="661" height="269" alt="Screenshot from 2025-12-29 12-47-51" src="https://github.com/user-attachments/assets/769b372b-2dfc-48ab-a273-ce2aa882da0b" />
 
 
 ---
