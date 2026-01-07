@@ -37,7 +37,7 @@ FTK Imager was opened on the **forensic analysis virtual machine** after confirm
 
 📸 Screenshot: FTK Imager application opened
 
-  <img width="274" height="184" alt="image" src="https://github.com/user-attachments/assets/fda53aed-742d-480b-a357-645ebf45455f" />
+  <img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/fda53aed-742d-480b-a357-645ebf45455f" />
 
 
 
@@ -54,7 +54,7 @@ From the FTK Imager menu, the option **Create Disk Image** was selected to begin
 
 📸 Screenshot: Create Disk Image option selected
 
- <img width="1014" height="764" alt="Screenshot from 2025-12-29 16-24-06" src="https://github.com/user-attachments/assets/0a7f00a4-fe52-4ee8-ba87-57d6db191367" />
+ <img width="900" height="550" alt="Screenshot from 2025-12-29 16-24-06" src="https://github.com/user-attachments/assets/0a7f00a4-fe52-4ee8-ba87-57d6db191367" />
 
 
 ---
@@ -88,7 +88,7 @@ If the suspect drive is not visible:
 
 📸 Screenshot: Source drive selection
 
-<img width="1014" height="764" alt="Screenshot from 2025-12-29 16-32-24" src="https://github.com/user-attachments/assets/4b27afcb-abd0-46ff-824d-59c6f6bd7188" />
+<img width="900" height="550" alt="Screenshot from 2025-12-29 16-32-24" src="https://github.com/user-attachments/assets/4b27afcb-abd0-46ff-824d-59c6f6bd7188" />
 
 ---
 
