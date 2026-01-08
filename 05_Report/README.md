@@ -109,7 +109,3 @@ The full report includes:
 
 📄 **Final_Forensic_Report.pdf**
 The complete, formatted forensic investigation report.
-
-
-Just say **next** 👍
-
